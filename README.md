@@ -3,7 +3,7 @@ A two player game meant for you tow win by getting 3 "X" or "O"s in a row. Game 
 
 ## Controls
 Click on the slot you would like to place your marker on.
-link to the code
+link to the code.
 [To see what the game code looks like click this link](https://github.com/Botlhe-M/java-tic-tac-toe)
 
 
